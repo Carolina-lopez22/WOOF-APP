@@ -15,7 +15,4 @@ Abre esta carpeta en Android Studio y espera a que Gradle termine el Sync. En la
 - Tipografía diferenciada para el título de cada perro, su edad y la barra superior.
 - Barra superior centrada con el logo de Woof.
 
-## Entrega de clase
-
-`ENTREGA.md` contiene las tres líneas explicativas. Completa el número de carnet y captura la app en tema claro y oscuro desde el emulador o teléfono; esas capturas dependen del dispositivo donde se ejecute.
 
